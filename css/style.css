@@ -83,8 +83,7 @@ text-content
   
   /* Style the counter cards */
   .card-img-REF1333-1{
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 80%;
     position: relative;
@@ -93,22 +92,16 @@ text-content
   }
   .card-imgREF1321
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 125%;
     position: relative;
     left: -10%;
-    
-  
-
   }
 
   .card-imgREF1350
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
-    cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     width: 156%;
     position: relative;
     left: -37%;
@@ -116,8 +109,7 @@ text-content
     
   .card-imgREF1332 
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 155%;
     position: relative;
@@ -126,8 +118,7 @@ text-content
   }
   .card-imgREF1334
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 126%;
     position: relative;
@@ -136,8 +127,7 @@ text-content
   }
   .card-imgREF1326 
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 116%;
     position: relative;
@@ -147,8 +137,7 @@ text-content
 
   .card-imgREF1336
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 126%;
     position: relative;
@@ -158,8 +147,7 @@ text-content
 
   .card-imgREF11345
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 126%;
     position: relative;
@@ -169,8 +157,7 @@ text-content
 
   .card-imgREF1347 
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 126%;
     position: relative;
@@ -180,8 +167,7 @@ text-content
 
   .card-imgREF1357
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 126%;
     position: relative;
@@ -192,8 +178,7 @@ text-content
 
   .card-imgREF1362
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 160%;
     position: relative;
@@ -205,8 +190,7 @@ text-content
 
   .card-imgREF1363 
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 126%;
     position: relative;
@@ -216,8 +200,7 @@ text-content
 
   .card-imgREF1389 
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 133%;
     position: relative;
@@ -228,8 +211,7 @@ text-content
 
   .card-imgEF1391
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 133%;
     position: relative;
@@ -240,8 +222,7 @@ text-content
 
   .card-imgREF1392
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 133%;
     position: relative;
@@ -251,7 +232,7 @@ text-content
 
   .card-imgREF1398
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     border: 2px solid #161616;
     cursor: pointer;
     width: 133%;
@@ -263,7 +244,7 @@ text-content
 
   .card-imgREF1399
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     border: 2px solid #161616;
     cursor: pointer;
     width: 153%;
@@ -275,8 +256,7 @@ text-content
 
   .card-imgREF1400
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 123%;
     position: relative;
@@ -286,8 +266,7 @@ text-content
 
   .card-imgREF1401
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 123%;
     position: relative;
@@ -296,8 +275,7 @@ text-content
   }
   .card-imgREF1403
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 123%;
     position: relative;
@@ -306,8 +284,7 @@ text-content
   }
   .card-imgREF1404
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 155%;
     position: relative;
@@ -317,8 +294,7 @@ text-content
 
   .card-imgREF1317-1
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 123%;
     position: relative;
@@ -328,8 +304,7 @@ text-content
 
   .card-imgREF1317-2
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 119%;
     position: relative;
@@ -340,8 +315,7 @@ text-content
 
   .card-imgREF1319
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 109%;
     position: relative;
@@ -353,8 +327,7 @@ text-content
 
   .card-imgREF1324
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 109%;
     position: relative;
@@ -365,8 +338,7 @@ text-content
 
   .card-imgREF1325
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 109%;
     position: relative;
@@ -377,9 +349,7 @@ text-content
 
   .card-imgREF1327
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
-    cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     width: 109%;
     position: relative;
     left: -10%;
@@ -388,9 +358,7 @@ text-content
 
   .card-imgREF1328
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
-    cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     width: 109%;
     position: relative;
     left: -10%;
@@ -399,9 +367,7 @@ text-content
 
   .card-imgREF1330 
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
-    cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     width: 135%;
     position: relative;
     left: -23%;
@@ -411,9 +377,7 @@ text-content
 
   .card-imgREF1331
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
-    cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     width: 109%;
     position: relative;
     left: -10%;
@@ -423,9 +387,7 @@ text-content
 
   .card-imgREF1350-2
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
-    cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     width: 128%;
     position: relative;
     left: 0%;
@@ -434,9 +396,7 @@ text-content
 
   .card-imgREF1351
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
-    cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     width: 118%;
     position: relative;
     left: 5%;
@@ -445,9 +405,7 @@ text-content
 
   .card-imgREF1354-1
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
-    cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     width: 90%;
     position: relative;
     left: 0%;
@@ -457,9 +415,7 @@ text-content
 
   .card-imgREF1358
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
-    cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     width: 128%;
     position: relative;
     left: 0%;
@@ -468,9 +424,7 @@ text-content
 
   .card-imgREF1360
   {  
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
-    cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     width: 124%;
     position: relative;
     left: 0%;
@@ -480,47 +434,33 @@ text-content
 
   .card-imgREF1361
   {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
-    cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     width: 124%;
     position: relative;
     left: -5%;
 
   }
 
-
-
-
 .card-imgREF1366
 {
-  box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-  border: 2px solid #161616;
-  cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
   width: 128%;
   position: relative;
   left: -5%;
-
 
 }
 
 .card-imgREF1369 
 {
-  box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-  border: 2px solid #161616;
-  cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
   width: 128%;
   position: relative;
   left: -5%;
-
-
 }
 
 .card-imgREF1371
 {
-  box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-  border: 2px solid #161616;
-  cursor: pointer;
+  box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
   width: 128%;
   position: relative;
   left: -5%;
@@ -529,9 +469,7 @@ text-content
 
 .card-imgREF1373
 {
-  box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-  border: 2px solid #161616;
-  cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
   width: 128%;
   position: relative;
   left: -10%;
@@ -542,9 +480,7 @@ text-content
 
 .card-imgREF1321-3
 {
-  box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-  border: 2px solid #161616;
-  cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
   width: 90%;
   position: relative;
   left: -5%;
@@ -554,9 +490,7 @@ text-content
 .card-imgREF1322 
 
 {
-  box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-  border: 2px solid #161616;
-  cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
   width:100%;
   position: relative;
   left: -10%;
@@ -565,9 +499,7 @@ text-content
 
 .card-imgREF1333-2
 {
-  box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-  border: 2px solid #161616;
-  cursor: pointer;
+  box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
   width: 90%;
   position: relative;
   left: -5%;
@@ -577,9 +509,7 @@ text-content
 .card-imgREF1339a
 
 {
-  box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-  border: 2px solid #161616;
-  cursor: pointer;
+  box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
   width:90%;
   position: relative;
   left: -10%;
@@ -589,9 +519,7 @@ text-content
 .card-imgREF1339b 
 
 {
-  box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-  border: 2px solid #161616;
-  cursor: pointer;
+  box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
   width:90%;
   position: relative;
   left: -10%;
@@ -601,8 +529,7 @@ text-content
 .card-imgREF1386
 
 {
-  box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-  border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
   cursor: pointer;
   width:90%;
   position: relative;
@@ -613,7 +540,7 @@ text-content
 .card-img-exóticas1315
 
 {
-
+  box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
   cursor: pointer;
   width:150%;
   position: relative;
@@ -624,6 +551,7 @@ text-content
 .card-img-exóticas1316
 
 {
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width:150%;
     position: relative;
@@ -634,7 +562,7 @@ text-content
 .card-img-exóticas1320
 
 {
- 
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
   cursor: pointer;
   width:160%;
   position: relative;
@@ -669,7 +597,6 @@ text-content
 }
 
 .card-img-exóticas1343{
-    cursor: pointer;
     width: 405%;
     position: relative;
     left: -375%;
@@ -732,27 +659,21 @@ text-content
 }
 
 .card-img1375 {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
-    cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     width: 138%;
     position: relative;
     left: -14%;
 }
 
 .card-img1375 {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
-    cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     width: 138%;
     position: relative;
     left: -25%;
 }
 
 .card-img1376 {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
-    cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     width: 100%;
     position: relative;
     left: -17%;
@@ -766,39 +687,28 @@ text-content
 
 
 .card-img1379 {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
-    cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     width: 173%;
     position: relative;
     left: -47%;
 }
 
 .card-img1406 {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
-    cursor: pointer;
-   
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     width: 121%;
     position: relative;
     left: -14%;
 }
 
 .card-img1407 {
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
-    cursor: pointer;
-    
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     width: 121%;
     position: relative;
     left: -14%;
 }
 
 .card-img1408{
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
-    cursor: pointer;
-   
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     width: 121%;
     position: relative;
     left: -14%;
@@ -806,10 +716,7 @@ text-content
 
 
 .card-img1410{
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
-    cursor: pointer;
-   
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     width: 73%;
     position: relative;
     left: 25%;
@@ -822,9 +729,7 @@ text-content
 }
 
 .card-img1411{
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
-    cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
    
     width: 73%;
     position: relative;
@@ -832,10 +737,7 @@ text-content
 }
 
 .card-img1382-1{
-
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
-    cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
    
     width: 60%;
     position: relative;
@@ -844,9 +746,7 @@ text-content
 
     .card-img1382-2{
 
-        box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-        border: 2px solid #161616;
-        cursor: pointer;
+        box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
        
         width: 59%;
         position: relative;
@@ -867,18 +767,14 @@ text-content
 
 .card-img1412{
 
-            box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-            border: 2px solid #161616;
-            cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
            
          
             }
 
 .card-img1413{
 
-box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-border: 2px solid #161616;
-cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
 
 
 }
@@ -886,9 +782,7 @@ cursor: pointer;
 
 .card-img1414{
 
-box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-border: 2px solid #161616;
-cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
 
 
 }
@@ -896,9 +790,7 @@ cursor: pointer;
 
 .card-img1417{
 
-box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-border: 2px solid #161616;
-cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
 
 width: 132%;
 position: relative;
@@ -929,9 +821,7 @@ left: -21%;
 
 .card-img1423{
 
-box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-border: 2px solid #161616;
-cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
 
 
 }
@@ -939,9 +829,7 @@ cursor: pointer;
 
 .card-img1424{
 
-box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-border: 2px solid #161616;
-cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
 
 
 }
@@ -949,9 +837,7 @@ cursor: pointer;
 
 .card-img1427{
 
-box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-border: 2px solid #161616;
-cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
 width: 132%;
 position: relative;
 left: -21%;
@@ -959,19 +845,15 @@ left: -21%;
 }
 .card-img1434-1{
 
-box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-border: 2px solid #161616;
-cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
 
 
 }
 
 .card-img1434-2{
 
-box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-border: 2px solid #161616;
-cursor: pointer;
-width: 104%;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
+    width: 104%;
 
 
 
@@ -980,9 +862,7 @@ width: 104%;
 
 .card-img1440{
 
-box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-border: 2px solid #161616;
-cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
 width: 119%;
 
 
@@ -990,9 +870,7 @@ width: 119%;
 
 .card-img1440-2{
 
-box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-border: 2px solid #161616;
-cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
 width: 119%;
 
 
@@ -1001,9 +879,7 @@ width: 119%;
 
 .card-img1444{
 
-box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-border: 2px solid #161616;
-cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
 width: 132%;
 
 
@@ -1012,9 +888,7 @@ width: 132%;
 
 .card-img1447-1{
 
-box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-border: 2px solid #161616;
-cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
 width: 97%;
 position: relative;
     left: 14%;
@@ -1029,9 +903,7 @@ position: relative;
 
 .card-img1447-2{
 
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
-    cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     width: 97%;
     
     
@@ -1040,9 +912,7 @@ position: relative;
 
 .card-img1447-3{
 
-box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-border: 2px solid #161616;
-cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
 width: 89%;
 position: relative;
 left: -14%;
@@ -1054,9 +924,7 @@ left: -14%;
 
 .card-img1447-4{
 
-box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-border: 2px solid #161616;
-cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
 width: 91%;
 position: relative;
 left: -52%;
@@ -1065,18 +933,14 @@ left: -52%;
 }
 .card-img1448{
 
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
-    cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     width: 214%;
     position: relative;
     left: -93%;
     
 }
 .card1449{
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
-    cursor: pointer;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     width: 80%;
     position: relative;
     left: 22%;
@@ -1086,8 +950,7 @@ left: -52%;
 .card-img1449-1
 {
 
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 68%;
     position: relative;
@@ -1104,8 +967,7 @@ left: -52%;
 
 .card-img1449-2{
 
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 73%;
     position: relative;
@@ -1116,8 +978,7 @@ left: -52%;
 
 .card-img1450-1{
 
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 66%;
     position: relative;
@@ -1128,8 +989,7 @@ left: -52%;
 
 .card-img1450-2{
 
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 65%;
     position: relative;
@@ -1985,8 +1845,7 @@ left: -52%;
     
     .card-img1413{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     
     
@@ -1995,8 +1854,7 @@ left: -52%;
     
     .card-img1414{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     
     
@@ -2005,8 +1863,7 @@ left: -52%;
     
     .card-img1417{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     
     width: 132%;
@@ -2038,8 +1895,7 @@ left: -52%;
     
     .card-img1423{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     
     
@@ -2048,8 +1904,7 @@ left: -52%;
     
     .card-img1424{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     
     
@@ -2058,8 +1913,7 @@ left: -52%;
     
     .card-img1427{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 132%;
     position: relative;
@@ -2068,8 +1922,7 @@ left: -52%;
     }
     .card-img1434-1{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     
     
@@ -2077,8 +1930,7 @@ left: -52%;
     
     .card-img1434-2{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     
     
@@ -2087,8 +1939,7 @@ left: -52%;
     
     .card-img1440{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     
     
@@ -2096,8 +1947,7 @@ left: -52%;
     
     .card-img1440-2{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     
     
@@ -2105,8 +1955,7 @@ left: -52%;
     
     .card-img1444{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     
     
@@ -2114,8 +1963,7 @@ left: -52%;
     
     .card-img1447-1{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     
     
@@ -2132,8 +1980,7 @@ left: -52%;
     
     .card-img1447-3{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 100%;
     position: relative;
@@ -2150,8 +1997,7 @@ left: -52%;
     
     .card-img1447-4{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 91%;
     position: relative;
@@ -3048,8 +2894,7 @@ left: -52%;
     
     .card-img1413{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     
     
@@ -3058,8 +2903,7 @@ left: -52%;
     
     .card-img1414{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     
     
@@ -3068,8 +2912,7 @@ left: -52%;
     
     .card-img1417{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     
     width: 132%;
@@ -3101,8 +2944,7 @@ left: -52%;
     
     .card-img1423{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     
     
@@ -3111,8 +2953,7 @@ left: -52%;
     
     .card-img1424{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     
     
@@ -3121,8 +2962,7 @@ left: -52%;
     
     .card-img1427{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 132%;
     position: relative;
@@ -3131,8 +2971,7 @@ left: -52%;
     }
     .card-img1434-1{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     
     
@@ -3140,8 +2979,7 @@ left: -52%;
     
     .card-img1434-2{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     
     
@@ -3150,8 +2988,7 @@ left: -52%;
     
     .card-img1440{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     
     
@@ -3159,8 +2996,7 @@ left: -52%;
     
     .card-img1440-2{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     
     
@@ -3168,8 +3004,7 @@ left: -52%;
     
     .card-img1444{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     
     
@@ -3177,8 +3012,7 @@ left: -52%;
     
     .card-img1447-1{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     
     
@@ -3195,8 +3029,7 @@ left: -52%;
     
     .card-img1447-3{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 100%;
     position: relative;
@@ -3213,8 +3046,7 @@ left: -52%;
     
     .card-img1447-4{
     
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
     width: 91%;
     position: relative;
@@ -3291,8 +3123,7 @@ left: -52%;
 
 .card-img {
     width: 80%;
-    box-shadow: 13px 11px 9px 0px rgb(0 0 0 / 66%);
-    border: 2px solid #161616;
+    box-shadow: 5px 5px 10px 0px rgb(0 0 0 / 20%);
     cursor: pointer;
 }
 
@@ -3442,7 +3273,6 @@ display: flex;
     
     display: inline-flex;
     justify-content: space-between;
-    border: solid rgb(29, 29, 29) 2px;
     margin: 60px;
     
 
@@ -3450,8 +3280,8 @@ display: flex;
 
 .quadro
 {
-    box-shadow: 13px 9px 21px 0px rgb(0 0 0 / 78%);
-    border: 6px solid #241212;
+    box-shadow: 13px 9px 21px 0px rgb(0 0 0 / 20%);
+    
 }
 .lado-quadro img
 {
